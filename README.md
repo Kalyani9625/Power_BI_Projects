@@ -13,3 +13,6 @@
 
 Do check my portfolio at NovyPro and have a look at the dashboard :)
 https://www.novypro.com/profile_projects/kalyanigawande# Revenue-Insights-Dashboard-for-Hospitality-Domain
+
+![image](https://github.com/Kalyani9625/Revenue-Insights-Dashboard-for-Hospitality-Domain/assets/106180058/53d9978d-4e1d-4213-8173-76b682a37b3f)
+
