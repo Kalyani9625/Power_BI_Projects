@@ -14,5 +14,6 @@
 Do check my portfolio at NovyPro and have a look at the dashboard :)
 https://www.novypro.com/profile_projects/kalyanigawande# Revenue-Insights-Dashboard-for-Hospitality-Domain
 
-![image](https://github.com/Kalyani9625/Revenue-Insights-Dashboard-for-Hospitality-Domain/assets/106180058/53d9978d-4e1d-4213-8173-76b682a37b3f)
-
+![Revenue SS 1](https://github.com/Kalyani9625/Revenue-Insights-Dashboard-for-Hospitality-Domain/assets/106180058/8f2b6510-6e93-46ff-88a9-0b0920aad8eb)
+![Revenue SS 2](https://github.com/Kalyani9625/Revenue-Insights-Dashboard-for-Hospitality-Domain/assets/106180058/a9dc45da-1108-4694-b189-bd8074dc8a04)
+![Revenue SS 3](https://github.com/Kalyani9625/Revenue-Insights-Dashboard-for-Hospitality-Domain/assets/106180058/0e73bf36-f497-42b0-b4a6-736ca0250b5e)
