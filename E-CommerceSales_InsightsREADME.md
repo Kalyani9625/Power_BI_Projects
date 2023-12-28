@@ -1,4 +1,4 @@
-**"E-commerce, a rollercoaster of clicks and conversions! Time to harness its power with data-driven insights."**
+##"E-commerce, a rollercoaster of clicks and conversions! Time to harness its power with data-driven insights."
 
 E-commerce, the virtual shopping mall where anything is just a click away. It's where businesses thrive by turning clicks into sales, the lifeblood of their digital empires. But in this data-driven landscape, understanding what sells and what doesn't is crucial. That's where my Power BI Sales Dashboard comes in, your secret weapon to decode your e-commerce success story. Buckle up, let's dive into the fascinating world of online sales!
 
@@ -43,6 +43,11 @@ Diversify Shipping Options: Explore cost-effective alternatives like Expedited S
 
 
 I've uncovered some trends, but the real magic happens with your feedback! Let's discuss how to transform these insights into action.
+
+## Project Link
+
+Do check my portfolio at NovyPro and have a look at the dashboard :)
+https://www.novypro.com/project/e-commerce-sales-dashboard-power-bi-2
 
 ![E-Commerce Dashboard Cover Photo](https://github.com/Kalyani9625/Revenue-Insights-Dashboard-for-Hospitality-Domain/assets/106180058/4f17c539-ec6a-4a7a-aa68-d4e8d3d068b9)
 ![E-Commerce SS1](https://github.com/Kalyani9625/Revenue-Insights-Dashboard-for-Hospitality-Domain/assets/106180058/e3ba13c6-4a1b-4af2-ba9b-589815fff123)
