@@ -1,5 +1,4 @@
-**"E-commerce, a rollercoaster of clicks and conversions! Time to harness its power with data-driven insights."
-**
+**"E-commerce, a rollercoaster of clicks and conversions! Time to harness its power with data-driven insights."**
 
 E-commerce, the virtual shopping mall where anything is just a click away. It's where businesses thrive by turning clicks into sales, the lifeblood of their digital empires. But in this data-driven landscape, understanding what sells and what doesn't is crucial. That's where my Power BI Sales Dashboard comes in, your secret weapon to decode your e-commerce success story. Buckle up, let's dive into the fascinating world of online sales!
 
